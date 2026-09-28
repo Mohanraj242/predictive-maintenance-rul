@@ -1,5 +1,8 @@
 # 🛩️ Predictive Maintenance & RUL Estimation
 
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://predictive-maintenance-rul-5bcc6txseqfgmgq7itsyj8.streamlit.app/)
+
+🚀 **Live Demo:** https://predictive-maintenance-rul-5bcc6txseqfgmgq7itsyj8.streamlit.app/
 End-to-end ML project predicting Remaining Useful Life (RUL) of turbofan engines
 using the NASA C-MAPSS dataset, deployed as a Streamlit dashboard.
 
